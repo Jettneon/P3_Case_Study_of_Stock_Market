@@ -48,9 +48,9 @@ To replicate the analysis or use the code for your own projects, follow these st
     pip install -r requirements.txt
 
 3. Open the Jupyter notebook to begin the analysis.
-```bash 
-    jupyter notebook Stock_Market_EDA.ipynb
-```
+   ```bash 
+      jupyter notebook Stock_Market_EDA.ipynb
+    ```
 
 Technologies Used
 Python: The primary programming language for data analysis.
