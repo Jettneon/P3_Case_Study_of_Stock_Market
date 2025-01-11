@@ -50,3 +50,32 @@ To replicate the analysis or use the code for your own projects, follow these st
 3. Open the Jupyter notebook to begin the analysis.
 ```bash 
     jupyter notebook Stock_Market_EDA.ipynb
+```
+
+Technologies Used
+Python: The primary programming language for data analysis.
+Pandas: Data manipulation and analysis library.
+Matplotlib/Seaborn: Data visualization libraries.
+NumPy: For numerical operations and data handling.
+Yahoo Finance API: For retrieving historical stock data.
+Contributing
+Contributions to this project are welcome! If you would like to improve the analysis or suggest new features, feel free to fork the repository and submit a pull request. Please make sure to follow the coding standards and provide clear documentation for any new additions.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgements
+Yahoo Finance API for providing the stock market data.
+Jupyter for creating an interactive analysis environment.
+Open-source Python libraries like Pandas, NumPy, and Matplotlib for data analysis and visualization.
+
+
+### Key Markdown Elements:
+- `#` for top-level headers.
+- `##` for secondary-level headers.
+- `-` for unordered lists.
+- Code blocks (such as for installation commands) are enclosed with triple backticks: ```bash ... ```.
+- Links are formatted with `[link text](URL)`.
+- Bold text is wrapped in `**`, like `**text**`.
+
+You can now copy and paste this into your `README.md` file, and it should render properly on GitHub with the correct formatting. Let me know if you need any further assistance!
