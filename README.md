@@ -49,7 +49,7 @@ To replicate the analysis or use the code for your own projects, follow these st
 
 3. Open the Jupyter notebook to begin the analysis.
    ```bash 
-    jupyter notebook Stock_Market_EDA.ipynb
+    jupyter notebook Analysis_of_Stock_Market.ipynb
     ```
 
 Technologies Used
